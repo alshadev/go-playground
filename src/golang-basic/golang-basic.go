@@ -6,5 +6,6 @@ import (
 )
 
 func main() {
-	fmt.Println(datatype.GetTypeNumber())
+	datatype.DataType()
+	fmt.Println(datatype.GetTrue())
 }

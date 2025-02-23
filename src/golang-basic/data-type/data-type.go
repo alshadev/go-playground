@@ -2,6 +2,6 @@ package datatype
 
 import "fmt"
 
-func main() {
-	fmt.Println(GetTypeNumber())
+func DataType() {
+	fmt.Println("Welcome to Data Type")
 }
