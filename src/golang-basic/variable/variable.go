@@ -17,4 +17,6 @@ func Variable() {
 
 	withoutUsingVar := "Declare initial variable without using var and automatically read variable as string (depend on it value data type)"
 	fmt.Println(withoutUsingVar)
+
+	//note: unable to run if any declared variable that not used
 }

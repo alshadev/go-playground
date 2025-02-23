@@ -11,5 +11,6 @@ func main() {
 	// fmt.Println("Length of '"+datatype.GetExampleString()+"' is", datatype.GetExampleLengthString())
 	// fmt.Println(datatype.GetCharOfStringByIndex("Hello, World!", 2))
 
-	variable.Variable()
+	//variable.Variable()
+	variable.MultipleVariable()
 }
