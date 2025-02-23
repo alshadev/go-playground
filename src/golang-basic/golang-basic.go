@@ -12,5 +12,8 @@ func main() {
 	// fmt.Println(datatype.GetCharOfStringByIndex("Hello, World!", 2))
 
 	//variable.Variable()
-	variable.MultipleVariable()
+	//variable.MultipleVariable()
+
+	//variable.ConstantVariable()
+	variable.MultipleConstantVariable()
 }
