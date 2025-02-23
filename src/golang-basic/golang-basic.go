@@ -1,7 +1,10 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	datatype "golang-basic/data-type"
+)
 
 func main() {
-	fmt.Println("Hello, World!")
+	fmt.Println(datatype.GetTypeNumber())
 }
