@@ -1,9 +1,9 @@
 package datatype
 
-func GetFalse() bool {
+func GetExampleFalse() bool {
 	return false
 }
 
-func GetTrue() bool {
+func GetExampleTrue() bool {
 	return true
 }

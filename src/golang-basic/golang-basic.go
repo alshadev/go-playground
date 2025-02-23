@@ -7,5 +7,6 @@ import (
 
 func main() {
 	datatype.DataType()
-	fmt.Println(datatype.GetTrue())
+	fmt.Println("Length of '"+datatype.GetExampleString()+"' is", datatype.GetExampleLengthString())
+	fmt.Println(datatype.GetCharOfStringByIndex("Hello, World!", 2))
 }
